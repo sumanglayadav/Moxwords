@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestSuite" parallel="false">
+    <test name="RedirectTest">
+        <classes>
+            <class name="com.example.RedirectTest" />
+        </classes>
+    </test>
+</suite>
