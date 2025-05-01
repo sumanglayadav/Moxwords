@@ -14,4 +14,5 @@ public class RedirectTest extends BaseClass {
         String actualTitle = driver.getTitle();
         Assert.assertEquals(actualTitle, expectedTitle, "Page title does not match!");
     }
+    
 }

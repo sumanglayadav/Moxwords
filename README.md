@@ -1,11 +1,11 @@
-# Selenium Java Maven Project
+# MoxwordsAutomation
 
 This project is a Selenium-based automation framework built using Java and Maven. It is designed to demonstrate how to set up a simple test automation project that redirects to a specified URL and verifies the page title.
 
 ## Project Structure
 
 ```
-selenium-java-maven-project
+MoxwordsAutomation
 ├── src
 │   ├── main
 │   │   └── java
@@ -33,7 +33,7 @@ selenium-java-maven-project
 1. **Clone the repository:**
    ```
    git clone <repository-url>
-   cd selenium-java-maven-project
+   cd MoxwordsAutomation
    ```
 
 2. **Build the project:**
