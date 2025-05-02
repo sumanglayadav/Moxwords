@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.example.RedirectTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 10.871 s <<< FAILURE! - in com.example.RedirectTest
-testRedirect(com.example.RedirectTest)  Time elapsed: 1.358 s  <<< FAILURE!
-java.lang.AssertionError: Page title does not match! expected [Expected Page Title] but found [- Authentication]
-	at com.example.RedirectTest.testRedirect(RedirectTest.java:15)
-
